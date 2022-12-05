@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-I'm a software engineer based out of New York 🍎
+I'm a software engineer based in New York 🍎
 
 Usually working on the Frontend but often dabble in the Backend 🥞
 
 - 🧑‍💻 Currently on the **Codecademy** engineering team!
-- 🌱 I’m currently learning **Ruby** and **Go**!
+- 🌱 I’m learning **Ruby** and **Go**!
 - 🔗 Connect with me on [**LinkedIn**](https://www.linkedin.com/in/juanxg/)!
 
 
